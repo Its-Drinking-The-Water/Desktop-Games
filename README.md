@@ -7,3 +7,4 @@ They are made in Jscript, so that you can make them yourself easily, and they sh
 2. Copy and paste on of the games into the file
 3. Save it as (filename).js to your desktop
 4. Drag the icons around to play games!
+5. You may need to set desktop icons to small depending on the game to allow for more space to fit icons
